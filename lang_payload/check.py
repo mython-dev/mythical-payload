@@ -16,11 +16,11 @@ def check_os():
             print(f'\nThis script is for Linux only!\n')
             sys.exit()
 
-      # elif os == 'darwin'.lower():
-      #       time.sleep(0.5)
-      #       clear()
-      #       print(f'\nThis script is for Linux only!\n')
-      #       sys.exit()
+      elif os == 'darwin'.lower():
+            time.sleep(0.5)
+            clear()
+            print(f'\nThis script is for Linux only!\n')
+            sys.exit()
 
 check_os()
 
