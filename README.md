@@ -5,7 +5,7 @@ Payload Creator for Operating Systems and Programming Language
 
 This script uses the Metasploit-Framework platform!
 
-<img src="https://github.com/mython-dev/mythical-payload/blob/main/screenshots/manu.jpeg">
+<img src="https://github.com/mython-dev/mythical-payload/blob/main/screenshots/menu.jpeg">
 
 
 ## OS Payloads
