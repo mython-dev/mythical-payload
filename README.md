@@ -3,6 +3,10 @@
 Payload Creator for Operating Systems and Programming Language
 >
 
+![](https://img.shields.io/badge/Python-3-blue)![](https://img.shields.io/badge/bash-dark)
+![](https://img.shields.io/badge/platform-Linux%20%7C%20Debian%20%7C%20Ubuntu-blue)
+![](https://img.shields.io/github/last-commit/mython-dev/mythical-payload)
+
 This script uses the Metasploit-Framework platform!
 
 <img src="https://github.com/mython-dev/mythical-payload/blob/main/screenshots/menu.jpeg">
