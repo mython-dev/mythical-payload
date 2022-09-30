@@ -47,6 +47,7 @@ cd mythical-payload && sudo bash install.sh
 - Ubuntu
 - Kali Linux
 - Other linux
+- In the future, maybe I will write on Mac Os!
 
 
 ## !
