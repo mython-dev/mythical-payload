@@ -4,10 +4,10 @@ if [ "$(id -u)" != "0" ]; then
    exit 1
 fi
 
-# if [[ "$OSTYPE" == "darwin"* ]]; then
-#     echo "This script is only for Linux!"
-#     exit 1
-# fi
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    echo "This script is only for Linux!"
+    exit 1
+fi
 
 clear
 
